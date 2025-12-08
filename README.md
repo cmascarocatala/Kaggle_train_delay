@@ -1,10 +1,10 @@
-# Anlàlisis del retràs dels trens polonesos. Treball Cas Kaggle.
+# Anlàlisis del retard dels trens polonesos. Treball Cas Kaggle.
 En aquest repositori hi ha el codi i l'informe corresponent que responen al
 treball basat en un cas Kaggle de l'assignatura Aprenentatge Computacional
 del grau de MatCAD de la UAB.
 
 ## Descripció
-El nostre treball pretén predir el retràs dels trens polonesos a partir de
+El nostre treball pretén predir el retard dels trens polonesos a partir de
 característiques com el temps atmosfèric, el dia de la setmana, o la distància
 que recorre. És un model que combina classificació i regressió per ajustar la
 predicció.
